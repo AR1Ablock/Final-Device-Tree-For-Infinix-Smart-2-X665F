@@ -1,0 +1,1 @@
+# Final-Device-Tree-For-Infinix-Smart-2-X665F
